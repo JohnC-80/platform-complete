@@ -2328,35 +2328,7 @@
     webpack-bundle-analyzer "^4.4.2"
     yargs "^17.3.1"
 
-"@folio/stripes-components@~12.0.2":
-  version "12.0.4"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-components/-/stripes-components-12.0.4.tgz#8d398b10bbeaa2ce3a6032553980bf24e67687e5"
-  integrity sha512-u9Vxt6GliVAqG9GlDM51Eny4UP9y86rIm2KBk6YRTU1GFHeiCYpSKk7PLDRFsDRFvKrtSDGREOyM3A2Rn5rYpw==
-  dependencies:
-    "@folio/stripes-react-hotkeys" "^3.0.5"
-    classnames "^2.2.5"
-    currency-codes "^2.1.0"
-    downshift "^2.0.16"
-    flexboxgrid2 "^7.2.0"
-    hoist-non-react-statics "^3.1.0"
-    json2csv "^4.2.1"
-    lodash "^4.17.4"
-    memoize-one "^6.0.0"
-    moment-range "^4.0.2"
-    moment-timezone "^0.5.14"
-    normalize.css "^8.0.1"
-    popper.js "^1.14.6"
-    prop-types "^15.5.10"
-    prop-types-extra "^1.1.0"
-    query-string "^8.1.0"
-    react-highlight-words "^0.20.0"
-    react-overlays "^5.2.1"
-    react-quill "^2.0.0"
-    react-transition-group "^4.4.5"
-    react-virtualized-auto-sizer "^1.0.2"
-    tai-password-strength "^1.1.1"
-
-"@folio/stripes-componets@https://github.com/folio-org/stripes-components#dayjs-refresh":
+"@folio/stripes-components@https://github.com/folio-org/stripes-components#dayjs-refresh", "@folio/stripes-components@~12.0.2":
   version "12.1.0"
   resolved "https://github.com/folio-org/stripes-components#ff74e10792d3cc160f66c28913611b7a5c2e5b3d"
   dependencies:
